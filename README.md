@@ -1,5 +1,5 @@
 # POSIX comm implementation in Python 
-Simple support an extra option -u, which causes comm to work when the input is not sorted.
+Simple implementation of comm and the addition of an extra option -u, which causes comm to work when the input is not sorted.
 
 ## NAME
 comm - select or reject lines common to two files
